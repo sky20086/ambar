@@ -1,64 +1,64 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="27.1.5">
   <diagram name="第 1 页" id="3VDCL5RCeGWMKLo1rC77">
-    <mxGraphModel dx="1621" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EDEDED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-1" value="版本功&lt;div&gt;能交付&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-1" value="版本功&lt;div&gt;能交付&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="560" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-2" value="需求" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-2" value="需求" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-40" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-4" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-4" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="80" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-5" value="概要设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-5" value="概要设计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-6" value="测试用例设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-6" value="测试用例设计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-7" value="功能开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-7" value="功能开发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-8" value="功能测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-8" value="功能测试" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-9" value="性能测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-9" value="性能测试" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="256" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-10" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-10" value="单元测试" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="296" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-11" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-11" value="研发自测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="256" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-12" value="效率" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-12" value="效率" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-13" value="质量" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-13" value="质量" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-14" value="人员能力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-14" value="人员能力" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-15" value="重用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-15" value="重用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-16" value="人员能力" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-16" value="人员能力" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-17" value="规范" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-17" value="规范" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-18" value="技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-18" value="技能" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="555" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-19" value="业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-19" value="业务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="555" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7i-2JK1r4ozWjh2vHMBF-20" value="解耦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7i-2JK1r4ozWjh2vHMBF-20" value="解耦" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="620" width="70" height="25" as="geometry" />
         </mxCell>
       </root>
